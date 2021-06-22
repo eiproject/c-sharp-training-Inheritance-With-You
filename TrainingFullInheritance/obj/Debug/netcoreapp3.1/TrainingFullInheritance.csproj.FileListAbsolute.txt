@@ -1,0 +1,13 @@
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\bin\Debug\netcoreapp3.1\TrainingFullInheritance.exe
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\bin\Debug\netcoreapp3.1\TrainingFullInheritance.deps.json
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\bin\Debug\netcoreapp3.1\TrainingFullInheritance.runtimeconfig.json
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\bin\Debug\netcoreapp3.1\TrainingFullInheritance.runtimeconfig.dev.json
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\bin\Debug\netcoreapp3.1\TrainingFullInheritance.dll
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\bin\Debug\netcoreapp3.1\TrainingFullInheritance.pdb
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\obj\Debug\netcoreapp3.1\TrainingFullInheritance.csprojAssemblyReference.cache
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\obj\Debug\netcoreapp3.1\TrainingFullInheritance.AssemblyInfoInputs.cache
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\obj\Debug\netcoreapp3.1\TrainingFullInheritance.AssemblyInfo.cs
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\obj\Debug\netcoreapp3.1\TrainingFullInheritance.csproj.CoreCompileInputs.cache
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\obj\Debug\netcoreapp3.1\TrainingFullInheritance.dll
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\obj\Debug\netcoreapp3.1\TrainingFullInheritance.pdb
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\obj\Debug\netcoreapp3.1\TrainingFullInheritance.genruntimeconfig.cache

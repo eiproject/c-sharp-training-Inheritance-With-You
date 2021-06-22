@@ -1,0 +1,13 @@
+C:\Lab Formulatrix\TrainingFullInheritance\MarketStock\bin\Debug\netcoreapp3.1\MarketStock.exe
+C:\Lab Formulatrix\TrainingFullInheritance\MarketStock\bin\Debug\netcoreapp3.1\MarketStock.deps.json
+C:\Lab Formulatrix\TrainingFullInheritance\MarketStock\bin\Debug\netcoreapp3.1\MarketStock.runtimeconfig.json
+C:\Lab Formulatrix\TrainingFullInheritance\MarketStock\bin\Debug\netcoreapp3.1\MarketStock.runtimeconfig.dev.json
+C:\Lab Formulatrix\TrainingFullInheritance\MarketStock\bin\Debug\netcoreapp3.1\MarketStock.dll
+C:\Lab Formulatrix\TrainingFullInheritance\MarketStock\bin\Debug\netcoreapp3.1\MarketStock.pdb
+C:\Lab Formulatrix\TrainingFullInheritance\MarketStock\obj\Debug\netcoreapp3.1\MarketStock.AssemblyInfoInputs.cache
+C:\Lab Formulatrix\TrainingFullInheritance\MarketStock\obj\Debug\netcoreapp3.1\MarketStock.AssemblyInfo.cs
+C:\Lab Formulatrix\TrainingFullInheritance\MarketStock\obj\Debug\netcoreapp3.1\MarketStock.csproj.CoreCompileInputs.cache
+C:\Lab Formulatrix\TrainingFullInheritance\MarketStock\obj\Debug\netcoreapp3.1\MarketStock.dll
+C:\Lab Formulatrix\TrainingFullInheritance\MarketStock\obj\Debug\netcoreapp3.1\MarketStock.pdb
+C:\Lab Formulatrix\TrainingFullInheritance\MarketStock\obj\Debug\netcoreapp3.1\MarketStock.genruntimeconfig.cache
+C:\Lab Formulatrix\TrainingFullInheritance\MarketStock\obj\Debug\netcoreapp3.1\MarketStock.csprojAssemblyReference.cache
