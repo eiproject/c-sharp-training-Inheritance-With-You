@@ -7,14 +7,38 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "TrainingFullInheritance/1.0.0": {
+        "dependencies": {
+          "MarketStock": "1.0.0",
+          "TheObjectType": "1.0.0"
+        },
         "runtime": {
           "TrainingFullInheritance.dll": {}
+        }
+      },
+      "MarketStock/1.0.0": {
+        "runtime": {
+          "MarketStock.dll": {}
+        }
+      },
+      "TheObjectType/1.0.0": {
+        "runtime": {
+          "TheObjectType.dll": {}
         }
       }
     }
   },
   "libraries": {
     "TrainingFullInheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarketStock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TheObjectType/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

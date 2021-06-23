@@ -2,9 +2,9 @@
 
 namespace TheObjectType
 {
-  class Run
+  public class Run
   {
-    internal Run()
+    public Run()
     {
       Pict Image1 = new Pict();
       Image1.Filename = "Profil-photo.jpg";

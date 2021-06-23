@@ -11,3 +11,16 @@ C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\obj\Debug\net
 C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\obj\Debug\netcoreapp3.1\TrainingFullInheritance.dll
 C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\obj\Debug\netcoreapp3.1\TrainingFullInheritance.pdb
 C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\obj\Debug\netcoreapp3.1\TrainingFullInheritance.genruntimeconfig.cache
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\bin\Debug\netcoreapp3.1\MarketStock.deps.json
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\bin\Debug\netcoreapp3.1\MarketStock.runtimeconfig.json
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\bin\Debug\netcoreapp3.1\MarketStock.runtimeconfig.dev.json
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\bin\Debug\netcoreapp3.1\MarketStock.exe
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\bin\Debug\netcoreapp3.1\TheObjectType.deps.json
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\bin\Debug\netcoreapp3.1\TheObjectType.runtimeconfig.json
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\bin\Debug\netcoreapp3.1\TheObjectType.runtimeconfig.dev.json
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\bin\Debug\netcoreapp3.1\TheObjectType.exe
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\bin\Debug\netcoreapp3.1\MarketStock.dll
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\bin\Debug\netcoreapp3.1\TheObjectType.dll
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\bin\Debug\netcoreapp3.1\MarketStock.pdb
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\bin\Debug\netcoreapp3.1\TheObjectType.pdb
+C:\Lab Formulatrix\TrainingFullInheritance\TrainingFullInheritance\obj\Debug\netcoreapp3.1\TrainingFullInheritance.csproj.CopyComplete

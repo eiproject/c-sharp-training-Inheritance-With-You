@@ -5,4 +5,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MarketStock\MarketStock.csproj" />
+    <ProjectReference Include="..\TheObjectType\TheObjectType.csproj" />
+  </ItemGroup>
+
 </Project>
