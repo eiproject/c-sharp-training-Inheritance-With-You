@@ -102,6 +102,28 @@ namespace MarketStock
       // base 
       Motocycle M3 = new Motocycle { motocyclePrice = 4000, platMotor="H 2222 N"};
       Console.WriteLine(M3.Price);
+
+      // constructor, inheritance
+      Detail D1 = new Detail("Narnia");
+      Console.WriteLine(D1.Title);
+
+      Genre G1 = new Genre("Harry Potter", "Magic");
+      Console.WriteLine(G1.Title);
+      Console.WriteLine(G1.Genre);
+
+      Movie M = G1;
+      CheckData(M);
+      CheckData(D1);
+    }
+
+    static void CheckData(Movie a)
+    {
+      Console.WriteLine("Movie: " + a.Title);
+    }
+
+    static void CheckData(Detail a)
+    {
+      Console.WriteLine("Detail: " + a.Title);
     }
   }
   class Program

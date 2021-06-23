@@ -1,0 +1,12 @@
+C:\Lab Formulatrix\TrainingFullInheritance\TheObjectType\bin\Debug\netcoreapp3.1\TheObjectType.exe
+C:\Lab Formulatrix\TrainingFullInheritance\TheObjectType\bin\Debug\netcoreapp3.1\TheObjectType.deps.json
+C:\Lab Formulatrix\TrainingFullInheritance\TheObjectType\bin\Debug\netcoreapp3.1\TheObjectType.runtimeconfig.json
+C:\Lab Formulatrix\TrainingFullInheritance\TheObjectType\bin\Debug\netcoreapp3.1\TheObjectType.runtimeconfig.dev.json
+C:\Lab Formulatrix\TrainingFullInheritance\TheObjectType\bin\Debug\netcoreapp3.1\TheObjectType.dll
+C:\Lab Formulatrix\TrainingFullInheritance\TheObjectType\bin\Debug\netcoreapp3.1\TheObjectType.pdb
+C:\Lab Formulatrix\TrainingFullInheritance\TheObjectType\obj\Debug\netcoreapp3.1\TheObjectType.AssemblyInfoInputs.cache
+C:\Lab Formulatrix\TrainingFullInheritance\TheObjectType\obj\Debug\netcoreapp3.1\TheObjectType.AssemblyInfo.cs
+C:\Lab Formulatrix\TrainingFullInheritance\TheObjectType\obj\Debug\netcoreapp3.1\TheObjectType.csproj.CoreCompileInputs.cache
+C:\Lab Formulatrix\TrainingFullInheritance\TheObjectType\obj\Debug\netcoreapp3.1\TheObjectType.dll
+C:\Lab Formulatrix\TrainingFullInheritance\TheObjectType\obj\Debug\netcoreapp3.1\TheObjectType.pdb
+C:\Lab Formulatrix\TrainingFullInheritance\TheObjectType\obj\Debug\netcoreapp3.1\TheObjectType.genruntimeconfig.cache
